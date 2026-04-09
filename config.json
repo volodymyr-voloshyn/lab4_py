@@ -1,0 +1,9 @@
+{
+"file":"text.txt",
+"dest":"fr",
+"module":"mod_gtrans4",
+"output":"screen",
+"symbols":700,
+"words":100,
+"sentences":7
+}
